@@ -31,4 +31,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0262-trips-and-users) |
+| [0620-not-boring-movies](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
