@@ -19,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 ## Matrix
 |  |
@@ -33,4 +34,12 @@
 | [0262-trips-and-users](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0620-not-boring-movies) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
