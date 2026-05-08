@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
+| [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
