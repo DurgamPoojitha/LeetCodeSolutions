@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
 |  |
