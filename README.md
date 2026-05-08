@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
