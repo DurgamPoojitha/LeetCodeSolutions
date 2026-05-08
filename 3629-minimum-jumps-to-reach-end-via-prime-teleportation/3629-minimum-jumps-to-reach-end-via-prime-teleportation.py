@@ -5,7 +5,7 @@ class Solution:
     def minJumps(self, nums):
         n = len(nums)
 
-        # ---------- Sieve for smallest prime factor ----------
+        # Search for smallest prime factor
         MAXV = max(nums)
         spf = list(range(MAXV + 1))
 
@@ -15,7 +15,7 @@ class Solution:
                     if spf[j] == j:
                         spf[j] = i
 
-        # ---------- Get unique prime factors ----------
+        #  Get unique prime factors 
         def get_prime_factors(x):
             factors = set()
             while x > 1:
@@ -25,18 +25,18 @@ class Solution:
                     x //= p
             return factors
 
-        # ---------- Map prime -> indices divisible by prime ----------
+        #  Map prime -> indices divisible by prime
         prime_to_indices = defaultdict(list)
 
         for i, val in enumerate(nums):
             for p in get_prime_factors(val):
                 prime_to_indices[p].append(i)
 
-        # ---------- Prime checking ----------
+        # Prime checking
         def is_prime(x):
             return x >= 2 and spf[x] == x
 
-        # ---------- BFS ----------
+        # BFS
         q = deque([0])
         dist = [-1] * n
         dist[0] = 0
