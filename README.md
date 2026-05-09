@@ -11,6 +11,7 @@
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
