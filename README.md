@@ -46,6 +46,7 @@
 | [0178-rank-scores](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0584-find-customer-referee) |
