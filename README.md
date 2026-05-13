@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 ## Matrix
@@ -99,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
