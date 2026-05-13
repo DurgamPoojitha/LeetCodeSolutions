@@ -74,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0796-rotate-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
