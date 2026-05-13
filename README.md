@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
