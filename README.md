@@ -71,6 +71,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1341-movie-rating) |
 ## String
