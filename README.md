@@ -66,6 +66,7 @@
 | [0601-human-traffic-of-stadium](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1193-monthly-transactions-i) |
