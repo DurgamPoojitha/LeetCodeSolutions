@@ -110,6 +110,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0007-reverse-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
