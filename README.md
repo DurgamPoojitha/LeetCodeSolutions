@@ -81,6 +81,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1393-capital-gainloss) |
 ## String
 |  |
 | ------- |
