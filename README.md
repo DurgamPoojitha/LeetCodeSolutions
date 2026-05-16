@@ -78,6 +78,7 @@
 | [0626-exchange-seats](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1158-market-analysis-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1164-product-price-at-a-given-date) |
