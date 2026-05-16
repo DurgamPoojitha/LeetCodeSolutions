@@ -12,6 +12,7 @@
 | [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
