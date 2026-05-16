@@ -10,6 +10,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
