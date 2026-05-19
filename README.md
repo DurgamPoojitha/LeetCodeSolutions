@@ -22,6 +22,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
@@ -33,6 +34,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
