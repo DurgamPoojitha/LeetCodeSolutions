@@ -88,6 +88,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1158-market-analysis-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1164-product-price-at-a-given-date) |
