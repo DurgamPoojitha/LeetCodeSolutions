@@ -130,6 +130,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0050-powx-n) |
 ## Greedy
 |  |
@@ -187,6 +188,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
