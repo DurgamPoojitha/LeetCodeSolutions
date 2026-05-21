@@ -107,6 +107,7 @@
 | [1321-restaurant-growth](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1393-capital-gainloss) |
+| [1907-count-salary-categories](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1907-count-salary-categories) |
 ## String
 |  |
 | ------- |
