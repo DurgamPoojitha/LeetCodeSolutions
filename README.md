@@ -50,6 +50,7 @@
 | [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
@@ -116,6 +117,7 @@
 | [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0796-rotate-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -220,6 +222,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
