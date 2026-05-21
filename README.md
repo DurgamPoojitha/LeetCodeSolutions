@@ -26,6 +26,7 @@
 | [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -121,6 +122,7 @@
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
