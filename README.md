@@ -124,6 +124,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -181,6 +182,7 @@
 | [0050-powx-n](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
@@ -222,6 +224,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 ## String Matching
 |  |
