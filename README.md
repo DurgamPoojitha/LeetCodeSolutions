@@ -19,6 +19,7 @@
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [1306-jump-game-iii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1306-jump-game-iii) |
+| [1470-shuffle-the-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
