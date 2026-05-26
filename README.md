@@ -190,6 +190,7 @@
 | [0171-excel-sheet-column-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
 |  |
@@ -261,5 +262,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
