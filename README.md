@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -177,6 +180,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -189,6 +193,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
