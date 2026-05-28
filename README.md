@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3660-jump-game-ix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
