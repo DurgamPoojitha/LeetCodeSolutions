@@ -141,6 +141,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -174,6 +175,7 @@
 | [0015-3sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
@@ -187,6 +189,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
