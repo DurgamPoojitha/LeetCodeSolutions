@@ -132,6 +132,7 @@
 | [1393-capital-gainloss](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1393-capital-gainloss) |
 | [1907-count-salary-categories](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1934-confirmation-rate) |
+| [3220-odd-and-even-transactions](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3220-odd-and-even-transactions) |
 ## String
 |  |
 | ------- |
