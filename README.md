@@ -36,6 +36,7 @@
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
@@ -178,6 +180,7 @@
 | [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
