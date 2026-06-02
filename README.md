@@ -135,6 +135,7 @@
 | [1393-capital-gainloss](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1393-capital-gainloss) |
 | [1907-count-salary-categories](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3220-odd-and-even-transactions](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3421-find-students-who-improved) |
 ## String
