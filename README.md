@@ -134,6 +134,7 @@
 | [1341-movie-rating](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1393-capital-gainloss) |
+| [1407-top-travellers](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1407-top-travellers) |
 | [1907-count-salary-categories](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1978-employees-whose-manager-left-the-company) |
