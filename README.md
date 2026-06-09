@@ -48,6 +48,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
