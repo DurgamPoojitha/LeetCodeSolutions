@@ -173,6 +173,7 @@
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | [1929-concatenation-of-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## String Matching
 |  |
 | ------- |
