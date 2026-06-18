@@ -151,6 +151,7 @@
 | [1978-employees-whose-manager-left-the-company](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3220-odd-and-even-transactions](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3421-find-students-who-improved) |
+| [3580-find-consistently-improving-employees](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3580-find-consistently-improving-employees) |
 ## String
 |  |
 | ------- |
