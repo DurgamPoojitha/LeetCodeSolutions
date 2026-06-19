@@ -35,6 +35,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
@@ -321,6 +322,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
 |  |
