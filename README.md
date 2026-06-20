@@ -36,6 +36,7 @@
 | [1672-richest-customer-wealth](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
@@ -212,6 +213,7 @@
 | [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -255,6 +257,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
