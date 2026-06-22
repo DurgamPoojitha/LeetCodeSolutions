@@ -174,6 +174,7 @@
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -232,6 +233,7 @@
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1189-maximum-number-of-balloons](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [3583-count-special-triplets](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
