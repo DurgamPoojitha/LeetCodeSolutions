@@ -189,6 +189,7 @@
 | [0198-house-robber](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
@@ -334,6 +335,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Trie
 |  |
 | ------- |
