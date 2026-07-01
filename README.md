@@ -48,6 +48,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -66,6 +67,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -99,6 +101,7 @@
 | [1672-richest-customer-wealth](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
 | [1306-jump-game-iii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1306-jump-game-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -311,6 +315,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -394,4 +399,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
