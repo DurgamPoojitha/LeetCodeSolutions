@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0399-evaluate-division) |
+| [1288-remove-covered-intervals](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1306-jump-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -226,6 +227,7 @@
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [1288-remove-covered-intervals](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1840-maximum-building-height) |
