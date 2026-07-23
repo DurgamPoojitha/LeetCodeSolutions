@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -91,6 +92,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
