@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1861-rotating-the-box) |
@@ -254,6 +256,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0242-valid-anagram) |
