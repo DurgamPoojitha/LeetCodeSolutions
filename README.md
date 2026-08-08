@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0200-number-of-islands) |
@@ -73,6 +74,7 @@
 | [0035-search-insert-position](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -96,6 +98,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
