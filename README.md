@@ -430,6 +430,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
@@ -449,4 +450,8 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
