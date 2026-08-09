@@ -99,6 +99,7 @@
 | [0031-next-permutation](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0925-long-pressed-name](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
@@ -223,6 +224,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
@@ -427,6 +430,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DurgamPoojitha/LeetCodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
